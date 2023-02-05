@@ -1,0 +1,12 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "cstddef": "c",
+    "sdkconfig.h": "c",
+    "led_driver_esp32_lib.h": "c",
+    "random": "c",
+    "stdio.h": "c"
+  }
+}
